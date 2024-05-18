@@ -38,7 +38,7 @@
   "private": false,
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.2.14",
-    "@angular/cdk": "^15.2.9",
+    "@angular/cdk": "^16.2.14",
     "@angular/cli": "^16.2.14",
     "@angular/common": "^16.2.12",
     "@angular/compiler": "^16.2.12",
