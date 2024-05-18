@@ -131,7 +131,6 @@
       }
     }
   },
-  "defaultProject": "your-awesome-library",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "yal",
