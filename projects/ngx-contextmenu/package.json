@@ -1,6 +1,6 @@
 {
   "name": "ngx-contextmenu",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "An Angular component to show a context menu on an arbitrary component",
   "keywords": [
     "angular2",
@@ -18,8 +18,8 @@
     "url": "git+ssh://git@github.com/isaacplmann/ngx-contextmenu.git"
   },
   "peerDependencies": {
-    "@angular/cdk": "^13.1.2",
-    "@angular/common": "^13.1.2",
-    "@angular/core": "^13.1.2"
+    "@angular/cdk": "^17.3.9",
+    "@angular/common": "^17.3.9",
+    "@angular/core": "^17.3.9"
   }
 }
